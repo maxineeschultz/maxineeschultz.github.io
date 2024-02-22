@@ -1,2 +1,2 @@
 # maxineeschultz.github.io
-my name is maxine and this is my assignment for WEBD152!
+my name is maxine and these are my assignments for WEBD152!
