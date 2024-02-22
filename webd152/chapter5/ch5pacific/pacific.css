@@ -13,7 +13,7 @@ header {
   text-indent: 1em; /* txi */
 }
 nav {
-  background-color: #ddc9eb; /* bgc#bbdefb: changes the bg color of the nav */
+  background-color: #A0D6B4; /* bgc#bbdefb: changes the bg color of the nav */
   font-weight: bold; /* fwb: makes the font look bold*/
 }
 nav a {
@@ -29,13 +29,13 @@ footer {
   font-family: Georgia, "Times New Roman", serif; /* fft */
 }
 h2 {
-  color: #c4628d; /* c#1976d2 */
+  color: #007C80; /* c#1976d2 */
 }
 h3 {
-  color: #003; /* c#003 */
+  color: #3EB489 /* c#003 */
 }
 dt {
-  color: #6c35e6; /* c#002171 */
+  color: #829F82; /* c#002171 */
 }
 footer {
   font-size: 75%; /* fz75% */
@@ -43,7 +43,7 @@ footer {
   text-align: center; /*txa center */
 }
 .resort {
-  color: #c4628d; /* c#1976d2 */
+  color: #00827F; /* c#1976d2 */
   font-weight: bold; /* fwb */
 }
 #contact {
