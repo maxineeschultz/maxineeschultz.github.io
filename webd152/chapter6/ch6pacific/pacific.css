@@ -1,0 +1,90 @@
+body {
+  background-color: #90c7e3; /* bgc#90c7e3  */
+  background-image: linear-gradient(to bottom, #fff, #90c7e3); /*bgi linear gradient, to bottom, two colors*/
+  background-repeat: no-repeat; /* bgr */
+  color: #555; /* c#fff */
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; /* ffa */
+}
+#wrapper {
+  background-color: #fff; /* bgc #fff */
+  box-shadow: 3px 3px 3px #333; /* horizontal, vertical, blur, color of box shadow */
+  margin: auto;
+  min-width: 960px; /* mw960 */
+  max-width: 2048px; /* maw2048 */
+  width: 80%; /* w80% */
+}
+header {
+  background-color: #010032; /* bgc#002171 */
+  background-image: url(images/sunset.jpg); /*bgi*/
+  background-position: right; /* bgdp right */
+  background-repeat: no-repeat; /* bgr */
+  color: #fff; /* c#fff */
+  height: 60px; /* h60, px is standard unit of measurement for this file */
+  padding-top: 15px; /* pt15 */
+  text-align: center; /* tac */
+
+}
+nav {
+  background-color: #fff; /* bgc#fff: changes the bg color of the nav */
+  font-weight: bold; /* fwb: makes the font look bold*/
+  padding: 1em; /* p1em */
+  text-align: center; /* centers text inside of navigation */
+}
+nav a {
+  text-decoration: none; /* txd: removes underline from nav */
+}
+main {
+  padding: 1px 20px 20px; /* p1-20-20 */
+  display: block; /* db */
+}
+h1 {
+  margin-bottom: 0; /* mb0 */
+  margin-top: 0; /* mt0 */
+}
+h1,
+h2,
+h3,
+footer {
+  font-family: Georgia, "Times New Roman", serif; /* fft */
+}
+h2 {
+  color: #007C80; /* c#1976d2 */
+  text-shadow: 1px 1px #ccc; /* txs 1px 1px #ccc (light grey) */
+}
+h3 {
+  color: #3EB489 /* c#003 */
+}
+dt {
+  color: #829F82; /* c#002171 */
+}
+footer {
+  font-size: 75%; /* fz75% */
+  font-style: italic; /*fsi */
+  padding: 2em; /* p2em em must be added to change default from px */
+  text-align: center; /*txa center */
+}
+.resort {
+  color: #00827F; /* c#1976d2 */
+  font-weight: bold; /* fwb */
+}
+#contact {
+  font-size: 90%; /* fz 90% */
+}
+#homehero {
+  background-image: url(images/coast.jpg); /* bgi */
+  background-repeat: no-repeat; /* bgr */
+  background-size: 100% 100%; /* bgz100%100% */
+  height: 300px; /* h300 */
+}
+#yurthero {
+  background-image: url(images/yurt.jpg); /* bgi */
+  background-repeat: no-repeat; /* bgr */
+  background-size: 100% 100%; /* bgz100%100% */
+  height: 300px; /* h300 */
+}
+#trailhero {
+  background-image: url(images/trail.jpg); /* bgi */
+  background-repeat: no-repeat; /* bgr */
+  background-size: 100% 100%; /* bgz100%100% */
+  height: 300px; /* h300 */
+}
