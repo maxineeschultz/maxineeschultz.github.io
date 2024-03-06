@@ -209,7 +209,7 @@ tr:nth-last-of-type(odd) { /* specifies that the odd rows will have this color *
     justify-content: space-around;
   } 
   nav li {
-    border-block-start: none; /* bbn */
+    border-bottom: none; /* bbn */
   }
   .flow {
     display: flex; /* df container for sections */
